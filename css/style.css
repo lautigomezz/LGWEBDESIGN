@@ -1,0 +1,72 @@
+div {
+  display: block; }
+  div div#navSuperior {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #373435; }
+
+/* SETEO DE LA PRIMERA PALABRA DEL SLOGAN*/
+span#slogan01 {
+  padding-left: 10px;
+  display: block;
+  font-family: arial;
+  font-style: normal;
+  font-size: 40px;
+  line-height: 22px;
+  position: absolute;
+  top: 45px;
+  width: 524px;
+  text-transform: uppercase;
+  color: #ffecb8; }
+
+/* SETEO DE LA SEGUNDA PALABRA DEL SLOGAN*/
+span#slogan02 {
+  padding-left: 30px;
+  text-align-last: center;
+  display: block;
+  font-family: Cherolina;
+  font-size: 70px;
+  line-height: 40px;
+  position: absolute;
+  top: 40px;
+  width: 540px;
+  text-align-last: center;
+  color: #ffecb8; }
+
+div#navSuperior a.nav {
+  display: block;
+  height: 100px;
+  top: 20px;
+  width: 100px; }
+
+div#navInferior {
+  padding: 0;
+  background-color: #e7eaeb;
+  position: relative;
+  text-align: center; }
+  div#navInferior ul {
+    list-style: none;
+    display: inline-block; }
+    div#navInferior ul li {
+      float: left;
+      margin-top: 10px; }
+      div#navInferior ul li a {
+        color: #666;
+        font-weight: bold;
+        text-decoration: none;
+        font-size: 20px;
+        padding: 20px; }
+  div#navInferior ul#nav li a:hover {
+    background-color: #929fb3; }
+
+.img-fluid {
+  width: 100%;
+  height: auto; }
+
+p.parrafo {
+  font-family: 'Roboto', sans-serif;
+  font-size: 25px;
+  text-align: center; }
+
+img.logofooter {
+  opacity: 0.5; }

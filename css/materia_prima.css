@@ -1,0 +1,34 @@
+ div.cajaFotosMateraPrima{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+
+#foto_MateriaPrima01{
+
+	padding-left: 70px;
+}
+
+#foto_MateriaPrima02{
+
+	padding-left: 70px;
+}
+
+#foto_MateriaPrima03{
+
+	padding-left: 80px;
+}
+
+div.bloqueDescripcion{
+	display: flex;
+    flex-direction: row;
+    margin-top: 400px;
+ 
+
+}
+
+.descripcionMateria_Prima01{
+
+	margin-left: 20px;
+}

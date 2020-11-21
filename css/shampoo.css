@@ -1,0 +1,66 @@
+div {
+    display: block;
+}
+
+body {
+    background-color: #e7eaeb;
+    color: #333;
+    cursor: default;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24px;
+    min-width: 1000px;
+}
+
+#txtShampooSolido {
+    background-color: #FFC107;
+    line-height: 30px;
+    padding-right: 15px;
+    margin-bottom: 15px;
+}
+
+#sectorfotos {
+    height: 100%;
+    width: 280px;
+    float: left;
+}
+
+ img#fotoShampooSolido{
+    padding-left: 20px;
+}
+
+div #descripcionProducto{
+    padding-right: 20px;
+    float: right;
+    height: 100%;
+    width: 700px;
+}
+
+#fotoShampooSolido{
+    font-family:'Poppins', sans-serif;
+}
+
+.newsletter{
+
+    margin-right: 20px;
+}
+
+
+footer{
+    color: grey;
+    position: relative;
+    font-family: 'Poppins', sans-serif;
+    padding-top: 650px;
+}
+
+footer p#contactoFooter{
+    text-align: center;
+    font-size: 13px;
+}
+
+footer p#copyright{
+    text-align: center;
+    font-size: 12px;
+
+}
